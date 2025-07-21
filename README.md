@@ -61,7 +61,6 @@
 - 실무자 경험담 및 커뮤니티 Q&A (OKKY, 뱅크샐러드, LinkedIn 등)
 - [Google Careers: Interviewing](https://careers.google.com/how-we-hire/interviewing/)
 - [The Tech Resume Inside Out](https://www.thetechresume.com/)
-- [LinkedIn Profile Tips](https://www.linkedin.com/pulse/step-by-step-guide-creating-winning-linkedin-profile-adrian-dalseno/)
 - [ByteByteGo: System Design Resources](https://bytebytego.com/)
 - [Glassdoor: Interview Reviews](https://www.glassdoor.com/Interview/index.htm)
 - 각국 공식 이민/비자 사이트 (미국 USCIS, 캐나다 이민성, 독일 BAMF 등)
