@@ -58,7 +58,7 @@
 
 ## 참고자료/출처
 
-- 실무자 경험담 및 커뮤니티 Q&A (OKKY, 뱅크샐러드, LinkedIn 등)
+- 실무자 경험담 및 커뮤니티 Q&A
 - [Google Careers: Interviewing](https://careers.google.com/how-we-hire/interviewing/)
 - [The Tech Resume Inside Out](https://www.thetechresume.com/)
 - [ByteByteGo: System Design Resources](https://bytebytego.com/)
